@@ -1,0 +1,110 @@
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Ictshop.dll.config
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Ictshop.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Ictshop.pdb
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\EntityFramework.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\NuGet.Frameworks.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\PagedList.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Razor.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\WebGrease.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\EntityFramework.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\NuGet.Frameworks.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\PagedList.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.Razor.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\csc.exe
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\csc.rsp
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\csi.exe
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\csi.rsp
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\vbc.exe
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\giatrung2012\workspace\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Ictshop.dll.config
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Ictshop.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Ictshop.pdb
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Antlr3.Runtime.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\EntityFramework.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\EntityFramework.SqlServer.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Newtonsoft.Json.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\NuGet.Frameworks.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\PagedList.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\PagedList.Mvc.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Helpers.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Mvc.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Optimization.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Razor.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\WebGrease.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Antlr3.Runtime.pdb
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\EntityFramework.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\EntityFramework.SqlServer.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\Newtonsoft.Json.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\NuGet.Frameworks.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\PagedList.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\PagedList.Mvc.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Helpers.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Mvc.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Optimization.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.Razor.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.dll
+C:\Users\giatrung2012\workspace\Nhom12_KiemThuWebsiteBanHangIctstore.somee.com\1. Source code Website ictstore.somee.com\Ictshop\obj\Debug\Ictshop.pdb

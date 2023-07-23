@@ -1,5 +1,4 @@
 ## Setup
-- Clone source code hoặc tải từ link
 - Run file database.sql
 - Mở file Ictshop/Ictshop.sln
 - Thay đổi connectionStrings trong Web.config cho phù hợp

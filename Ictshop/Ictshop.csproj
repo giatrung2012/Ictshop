@@ -978,7 +978,6 @@
     <Content Include="Content\ckfinder\plugins\dummy\lang\pl.js" />
     <Content Include="Content\ckfinder\plugins\dummy\plugin.js" />
     <Content Include="Content\ckfinder\plugins\fileeditor\CKFinder_FileEditor.dll" />
-    <Content Include="Content\ckfinder\plugins\fileeditor\CKFinder_FileEditor.pdb" />
     <Content Include="Content\ckfinder\plugins\fileeditor\codemirror\lib\codemirror.css" />
     <Content Include="Content\ckfinder\plugins\fileeditor\codemirror\lib\codemirror.js" />
     <Content Include="Content\ckfinder\plugins\fileeditor\codemirror\mode\clike\clike.js" />

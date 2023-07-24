@@ -56,6 +56,14 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>Content\ckfinder\plugins\fileeditor\CKFinder_FileEditor.dll</HintPath>
     </Reference>
+    <Reference Include="CKFinder_ImageResize, Version=2.1.0.1132, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Content\ckfinder\plugins\imageresize\CKFinder_ImageResize.dll</HintPath>
+    </Reference>
+    <Reference Include="CKFinder_Watermark, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Content\ckfinder\plugins\watermark\CKFinder_Watermark.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -1005,16 +1013,10 @@
     <Content Include="Content\ckfinder\plugins\gallery\colorbox\jquery.colorbox-min.js" />
     <Content Include="Content\ckfinder\plugins\gallery\colorbox\jquery.min.js" />
     <Content Include="Content\ckfinder\plugins\gallery\colorbox\license.txt" />
-    <Content Include="Content\ckfinder\plugins\imageresize\bin\Debug\CKFinder_ImageResize.dll" />
-    <Content Include="Content\ckfinder\plugins\imageresize\bin\Debug\CKFinder_ImageResize.pdb" />
-    <Content Include="Content\ckfinder\plugins\imageresize\bin\Release\CKFinder_ImageResize.dll" />
-    <Content Include="Content\ckfinder\plugins\imageresize\bin\Release\CKFinder_ImageResize.pdb" />
+    <Content Include="Content\ckfinder\plugins\imageresize\CKFinder_ImageResize.dll" />
     <Content Include="Content\ckfinder\plugins\imageresize\images\mini.gif" />
     <Content Include="Content\ckfinder\plugins\imageresize\plugin.js" />
-    <Content Include="Content\ckfinder\plugins\watermark\bin\Debug\CKFinder_Watermark.dll" />
-    <Content Include="Content\ckfinder\plugins\watermark\bin\Debug\CKFinder_Watermark.pdb" />
-    <Content Include="Content\ckfinder\plugins\watermark\bin\Release\CKFinder_Watermark.dll" />
-    <Content Include="Content\ckfinder\plugins\watermark\bin\Release\CKFinder_Watermark.pdb" />
+    <Content Include="Content\ckfinder\plugins\watermark\CKFinder_Watermark.dll" />
     <Content Include="Content\ckfinder\plugins\watermark\logo.gif" />
     <Content Include="Content\ckfinder\skins\kama\app.css" />
     <Content Include="Content\ckfinder\skins\kama\host.css" />
